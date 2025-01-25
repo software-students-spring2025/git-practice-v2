@@ -9,3 +9,8 @@ Testing is imporant, and TTD (test driven development) is an rather radical appr
 
 ## The only way to go fast, is to go well
 I am convinced that it is especially true in the software industry. Serious software are complex, and it can easily spiral out of control in complexity an the hands of an average undergraduate student. In the early stages of development, it is easy to go fast and accumulate technical debt. In no time, the software will be so complex that no one will be willing to work on it. The guiding principle is to keep it simple so that it is obiviously correct, but breaking down big systems into smaller ones and finding the optimal implementation is no trivial task.
+
+
+
+## Comment by Alex Wang
+I think it's very interesting that the writer of this post was able to draw a useful analogy between coding and bees.
