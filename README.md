@@ -14,3 +14,6 @@ I am convinced that it is especially true in the software industry. Serious soft
 
 ## Comment by Alex Wang
 I think it's very interesting that the writer of this post was able to draw a useful analogy between coding and bees.
+
+## Comment by Kevin Jin
+I also agree that TDD can be useful, although it might be more overhead when the requirements aren't stable.
