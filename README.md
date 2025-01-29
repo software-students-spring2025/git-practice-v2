@@ -4,6 +4,5 @@ This article, written by Joel Spolsky, co-founder of Stack Overflow, outlines a 
 
 What I find particularly interesting about this article is how it distills complex software engineering practices into a straightforward checklist. It’s a great reminder that good software development isn’t just about writing code—it’s about having the right processes and tools in place to support the team. Even though the ariticle was written over two decades ago, the principles still hold true today.
 
-hello!!!
-
-test #2
+# Ajoks Response: Testers
+One interesting thing from the article I enjoyed was the idea of having testers. While developers are experts in writing code, they can easily overlook bugs because of how familiar they become with their own code, making it hard for them to spot issues that they wrote. Testers bring a fresh pair of eyes and focus entirely on finding problems, which the developers might miss.
