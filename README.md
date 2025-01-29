@@ -5,3 +5,5 @@ This article, written by Joel Spolsky, co-founder of Stack Overflow, outlines a 
 What I find particularly interesting about this article is how it distills complex software engineering practices into a straightforward checklist. It’s a great reminder that good software development isn’t just about writing code—it’s about having the right processes and tools in place to support the team. Even though the ariticle was written over two decades ago, the principles still hold true today.
 
 hello!!!
+
+test #2
