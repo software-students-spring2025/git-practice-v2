@@ -1,2 +1,6 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Link to an interesting article/site: https://www.cbsnews.com/news/deepseek-ai-raises-national-security-concerns-trump/
+
+The reason I find this article in particular interesting is because it is so intriguing how the modern world has to adjust to this new world of AI. I know AI isn't particularly new/fresh or anything but its rapid advancement is forcing the worlds governemnts and systems to make adjustments in order to not fall behind other parts of the world. Another interesting factor is that literally anyone who is capable can harness this newfound technology to truly make a difference in the world and we've already seen this happening all around us, from ChatGPT to Gemini and now Deepseek AI which is according to many specailists the next big thing. The fact that it is reason for caution on a national level is just insane and something that everyone has to get on board with or they will be left behind. 
+
+## Isha Gopal Comment
+I also found this article very interesting! The dissonance between how AI accelerates change/innovation and the ethical/security trepidations it carries is fascinating. AI gives humans so much power in terms of being able to accomplish bigger things, but it also takes autonomy away from us.
