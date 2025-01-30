@@ -1,4 +1,4 @@
-#Is There a Future for Software Engineers? The Impact of AI
+# Is There a Future for Software Engineers? The Impact of AI
 
 article: https://brainhub.eu/library/software-developer-age-of-ai
 
