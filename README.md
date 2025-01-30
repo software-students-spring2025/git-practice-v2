@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+https://www.kaggle.com/ 
+
+funny enough I just discovered this today but I am intrigued by it because I want to possibly do data work with nba players.
