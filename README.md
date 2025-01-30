@@ -24,3 +24,7 @@ the logs readable, and therefore, would be challanging to debug and
 undestand history. Thus, it is recommended that the team's first
 approach to its commit log should be to agree on a commit message
 convention that defines at least the **"style," "content," and "metadata."**
+
+#Iva's Comments
+
+I'm glad you picked this article! It is important to have a clear and consistent Git commit messages for effective collaboration and project management. Reading your aritcle was helpful to me as well.
