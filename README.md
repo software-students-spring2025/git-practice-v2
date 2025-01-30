@@ -9,3 +9,7 @@ One particularly interesting point is his advocacy for **transparency and user c
 
 ## Comments From Ray Huang (rh3339)
 This is a great insight of software development! 
+
+## Comments from Weite  Li （wl2811）
+- Very thoughtful and insightful analysis!
+
