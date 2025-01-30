@@ -1,2 +1,7 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+1. https://www.ibm.com/think/topics/software-development
+
+2. The article "What Is Software Development?" from IBM provides a comprehensive look into the essential aspects of software development, breaking down its processes, methodologies, and emerging trends. One of the most interesting aspects is how it emphasizes the increasing role of Artificial Intelligence (AI) and automation in the software development lifecycle. AI-powered tools and generative AI are transforming the way code is produced, tested, and optimized, making development cycles faster and more efficient. This integration of AI is particularly exciting because it reduces manual efforts and improves the accuracy of software development, allowing teams to focus more on innovation rather than repetitive tasks. Additionally, the article explores the DevOps model, highlighting its importance in modern software development. The concept of continuous integration and continuous delivery (CI/CD) ensures that updates are small, frequent, and less prone to errors, which enhances software quality and stability. The focus on automation and collaboration between development and IT operations aligns with the industry's push towards faster and more reliable software deployment.
+
+
+Git workflow practice 1/29/2025
