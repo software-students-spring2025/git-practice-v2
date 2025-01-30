@@ -1,23 +1,26 @@
-# [How to Write a Git Commit Message](https://cbea.ms/git-commit/#why-not-how)
+# How to Write a Git Commit Message
 
-In a team setting, the team's first approach to its commit log should  
-be to first agree on a commit message convention that defines at  
-least the **"style," "content," and "metadata."**
+[Read the full guide here](https://cbea.ms/git-commit/#why-not-how)
 
-The goal of having a clear commit message is to improve collaboration  
-and project maintainability. A well-structured message should follow a  
-consistent format:
+I picked this article because I thought it was an appropriate time
+before we began working with our respective teams for Project 1.
+Here is a quick summary of the article.
 
-- A short, imperative subject line under 50 characters
-- A blank line
-- A wrapped body at 72 characters
+Having a clear commit message is important because it improves
+collaboration, project maintainability, and debugging in a project.
 
-This makes logs readable and useful for debugging and understanding history.
+**A good commit mesage follows these rules:**
 
-Commit messages should also explain **what changed and why, instead of how.**  
-The subject should be **action-oriented**, avoiding past tense or descriptions.  
-The body should provide necessary context, referencing issues or PRs when  
-it's relevant.
+- Separate subject from body with a blank line
+- Limit the subject line to 50 characters
+- Capitalize the subject line
+- Do not end the subject line with a period
+- Use the imperative mood in the subject line
+- Wrap the body at 72 characters
+- Use the body to explain <em>what</em> and <em>why</em> vs. <em>how</em>
 
-By following these conventions, teams can ensure clarity and consistency,
-making the logs easier to navigate and maintain.
+In a team setting, Without a uniform convention, it is hard to make
+the logs readable, and therefore, would be challanging to debug and
+undestand history. Thus, it is recommended that the team's first
+approach to its commit log should be to agree on a commit message
+convention that defines at least the **"style," "content," and "metadata."**
