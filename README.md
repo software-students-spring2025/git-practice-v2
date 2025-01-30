@@ -1,6 +1,4 @@
-# How to Write a Git Commit Message
-
-**Link:** [cbea.ms/git-commit](https://cbea.ms/git-commit/#why-not-how)
+# [How to Write a Git Commit Message](https://cbea.ms/git-commit/#why-not-how)
 
 In a team setting, the team's first approach to its commit log should  
 be to first agree on a commit message convention that defines at  
