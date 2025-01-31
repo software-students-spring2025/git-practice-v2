@@ -5,3 +5,5 @@ This book focuses on the techniques of writing maintainable code, especially for
 
 ## Why choose these articles?
 These are interesting because they give developers insight into the basics and best practices of the technology. At the same time, they also provide practical advice on how to write elegant code, which is very valuable for beginners and experienced developers alike.
+
+## I love this commit, and I will read it as well
