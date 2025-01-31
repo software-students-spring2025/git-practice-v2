@@ -10,4 +10,4 @@ This article highllights how software development plays a crucial role in shapin
 
 ## Isaac Vivar Response
 
-I agree that software development goes beyond coding; it’s about innovating solutions that enhance efficiency and solve real-world challenges. This article reminds us how impactful and transformative software can be in everyday life.
+I agree that software development goes beyond coding, it’s about innovating solutions that enhance efficiency and solve real-world challenges. This article reminds us how impactful and transformative software can be in everyday life.
