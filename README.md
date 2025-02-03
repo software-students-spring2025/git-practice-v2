@@ -21,4 +21,5 @@ The global fintech services market is projected to grow substantially, reaching 
 
 Segments include money transfers, digital lending, personal finance, insurance (InsurTech), and regulatory technology (RegTech).
 
-#
+# Ajok Thon Response
+One interesting point from the article is the rapid growth of digital banking, which is expected to reach 386 million users by 2028. This highlights how more people are shifting away from traditional banks and embracing mobile-focused financial services like PayPal, Alipay, and Revolut. With the rise of fintech, managing money is becoming more accessible, convenient, and integrated into everyday life, making financial transactions faster and easier than ever before.
