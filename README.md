@@ -9,3 +9,6 @@ I really enjoyed this article because it shows that even smaller companies can c
 
 ## Comment from Jackson Chen
 Really insightful analysis! The fact that DeepSeek achieved this with lower-powered hardware shows how innovative architecture design can be just as important as raw computing power.
+
+## Comment from Kevin Jin
+DeepSeek-R1’s breakthrough in efficiency and cost-effectiveness challenges the dominance of big-budget AI models, proving that innovation isn’t just about hardware but also smart optimization.
